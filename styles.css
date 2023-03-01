@@ -114,9 +114,10 @@ h1, h2{
 
 .profile-image-wrapper img {
   width: 65%;
-  margin-left: 65px;
+  padding-left: 85px;
   align-items: center;
   border-radius: 3px;
+  margin-top: 50px;
 }
 
 .profile-content-wrapper {
