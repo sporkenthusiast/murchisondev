@@ -130,6 +130,10 @@ h1, h2{
   margin-left: 15px;
 }
 
-.social-img{
+.social-img {
   width: 30%;
+}
+
+.contact-wrapper {
+  text-align: center;
 }
