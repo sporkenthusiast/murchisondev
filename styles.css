@@ -134,6 +134,10 @@ h1, h2{
   width: 30%;
 }
 
-.contact-wrapper {
+.contact-wrapper{
   text-align: center;
+}
+
+.project-wrapper{
+  margin-left: 20vh;
 }
